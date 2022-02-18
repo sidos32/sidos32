@@ -12,3 +12,4 @@
 <br>
 
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=sidos32&layout=compact)](https://github.com/sidos32/sidos32)
+<img align="right" src="https://orhun.dev/img/crow.png">
