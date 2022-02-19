@@ -12,6 +12,6 @@
 <br>
 
   
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=sidos32&layout=compact)](https://github.com/sidos32/sidos32)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=sidos32&layout=compact&theme=merko)](https://github.com/sidos32/sidos32)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
