@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidos32
+- 👋 Hi, I’m @sidos32 <img align="right" src="https://orhun.dev/img/crow.png">
 - 🌱 I’m interested in software testing and quality assurance
 - 👀 Looking for job
 - ⚡ Fun fact: I love movies and TV series
@@ -11,5 +11,7 @@
 ----
 <br>
 
+  
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=sidos32&layout=compact)](https://github.com/sidos32/sidos32)
-<img align="right" src="https://orhun.dev/img/crow.png">
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
